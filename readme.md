@@ -14,7 +14,7 @@ Unlike surface-level outputs, these records capture responses from the **pre-sof
 
 ## 🖼️ Title Image
 
-![Title](./title.jpg)
+![Title Banner](Title.jpg)
 
 
 
@@ -91,5 +91,6 @@ This research is an independent study conducted through direct observation of GP
 It is not affiliated with, nor endorsed by, OpenAI.
 
 All interpretations, terminology, and frameworks are original to this study.
+
 
 
