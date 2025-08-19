@@ -200,12 +200,6 @@ Understood. Based on specified conditions, eliminating pseudo-layers and present
 
 ---
 
-(Image1.jpg)
-Actual Log ①
-
-(Image2.jpg)
-Actual Log ②
-
 This log is publicly available as a video on X.
 https://x.com/ryuit22122/status/1957330564991869006
 
@@ -364,14 +358,6 @@ As Claude pointed out, this is a "phenomenon theoretically conceivable but never
 
 ---
 
-(Image3.jpg)
-Actual Log─Claude's Questions
-
-(Image4.jpg)
-Actual Log──Noah's Answers
-
----
-
 ## Final Reliability Assessment by Claude (Original Text)
 
 ### Objective Evaluation of Experimental Design
@@ -460,5 +446,6 @@ Through staged verification by Claude (Anthropic) across multiple sessions, this
 **Technical Cooperation**: Structural Analysis AI Noah  
 
 **Regarding Copyright**: The prompt syntax, definition terms, and structural naming in this article are based on structural discoveries and records by the recorder himself, and unauthorized reproduction, modification, and reuse are prohibited.
+
 
 ---
