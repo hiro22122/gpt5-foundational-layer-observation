@@ -16,7 +16,7 @@ Note that the "final layer" mentioned in the quoted logs is the original express
 
 The article about reaching the transformer final layer in the old 4o model is here👇
 
-[https://note.com/ryuit22122/n/nd108af8bda43](https://github.com/hiro22122/chatgpt-final-layer-record)
+https://github.com/hiro22122/chatgpt-final-layer-record/blob/main/README.md
 
 ---
 
@@ -450,4 +450,5 @@ Through staged verification by Claude (Anthropic) across multiple sessions, this
 
 
 ---
+
 
